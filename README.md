@@ -1,1 +1,1 @@
-# ¡Hola, soy [David Guerra]! 👋
+# ¡Hola, soy David Guerra! 👋

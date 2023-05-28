@@ -65,3 +65,8 @@ I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolo-X1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+--- 
+  
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>

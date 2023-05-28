@@ -57,9 +57,12 @@ I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Apolo-X1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Apolo-X1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolo-X1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-
 --- 
-  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)

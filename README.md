@@ -20,13 +20,14 @@
   
 <h1 align="center">
   Welcome Back:)
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidbasement.com%2Fen%2Fhow-to-create-an-animated-gif-from-your-android-smartphone&psig=AOvVaw2thkA9-TUoM4YIJfG9rUtB&ust=1685366664356000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiYhqSOmP8CFQAAAAAdAAAAABAD" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
   
   
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTg1YjAwNjRkNjAxMDhiMmYxZmI5MjhhZDI3ZjcyMzMzOGNhNGY3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif"width="600" height="300"/>
+  
 </div>
 
 ---

@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻_technologist: About Me :
+### 👨‍💻About Me :
 I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 - :telescope: I study as an analyst and software developer.
 

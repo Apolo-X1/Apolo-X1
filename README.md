@@ -20,13 +20,13 @@
   
 <h1 align="center">
   Welcome Back:)
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmODI3MjJiYTEwZmIwMGQwYzY1YjIzMjU4MTBiNWM0ZjE3MDBlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vrxxqQbyRxYi6scCjT/giphy.gif" width="30px"/>
+  <img src="" width="30px"/>
 </h1>
 
   
   
 <div align="center">
-  <img src=""width="700" height="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmODI3MjJiYTEwZmIwMGQwYzY1YjIzMjU4MTBiNWM0ZjE3MDBlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vrxxqQbyRxYi6scCjT/giphy.gif"width="700" height="400"/>
   
 </div>
 

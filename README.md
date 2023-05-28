@@ -68,5 +68,5 @@ I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   
 --- 
   
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)

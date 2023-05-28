@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmODI3MjJiYTEwZmIwMGQwYzY1YjIzMjU4MTBiNWM0ZjE3MDBlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vrxxqQbyRxYi6scCjT/giphy.gif"width="200"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"width="200"/>
 </div>
 
 
@@ -20,7 +20,7 @@
   
 <h1 align="center">
   Welcome Back:)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFmODI3MjJiYTEwZmIwMGQwYzY1YjIzMjU4MTBiNWM0ZjE3MDBlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vrxxqQbyRxYi6scCjT/giphy.gif" width="30px"/>
 </h1>
 
   

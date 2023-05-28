@@ -20,7 +20,7 @@
   
 <h1 align="center">
   Welcome Back:)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidbasement.com%2Fen%2Fhow-to-create-an-animated-gif-from-your-android-smartphone&psig=AOvVaw2thkA9-TUoM4YIJfG9rUtB&ust=1685366664356000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiYhqSOmP8CFQAAAAAdAAAAABAD" width="30px"/>
 </h1>
 
   

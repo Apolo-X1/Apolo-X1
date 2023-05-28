@@ -11,8 +11,6 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </div>
-
-  
   
 <div align="center">
         <img src="https://komarev.com/ghpvc/?username=Apolo-X1&style=flat-square&color=blue" alt="">
@@ -58,3 +56,10 @@ I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+  
+  
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apolo-X1&theme=dark&background=000000)](https://git.io/streak-stats)

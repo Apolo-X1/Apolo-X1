@@ -59,7 +59,10 @@ I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
   
   
----
+<div align="center">
+        ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apolo-X1&theme=dark&background=000000)](https://git.io/streak-stats)
+        ### :fire: My Stats :
+        [![GitHub
+        Streak](http://github-readme-streak-stats.herokuapp.com?user=Apolo-X1&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>

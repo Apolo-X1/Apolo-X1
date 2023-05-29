@@ -28,7 +28,7 @@
   ---
 
   <div align="left">
-    ###👨‍💻About Me:
+    👨‍💻About Me:
     I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Colombia.<br><br>
     - :telescope: I study as an analyst and software developer.<br>
     - :seedling: I love learning and creating new things.<br>

@@ -28,13 +28,14 @@
   ---
 
   <div align="left">
-    👨‍💻About Me:<br><br>
-    - 🤍 I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Colombia.<br>
-    - :telescope: I study as an analyst and software developer.<br>
-    - :seedling: I love learning and creating new things.<br>
-    - :zap: In my spare time, I like to meditate, play the guitar, and exercise.
+    <h3>
+      👨‍💻About Me:<br><br>
+      - 🤍 I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Colombia.<br>
+      - :telescope: I study as an analyst and software developer.<br>
+      - :seedling: I love learning and creating new things.<br>
+      - :zap: In my spare time, I like to meditate, play the guitar, and exercise.  
+    </h3>
   </div>
-
   ---
 
   ### :hammer_and_wrench: Languages and Tools:

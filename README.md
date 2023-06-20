@@ -30,7 +30,7 @@
   <div align="left">
     <h3 align="center">
       👨‍💻About Me:<br><br>
-    </h3 style="padding-left:20px;">
+    </h3>
       - 🤍 I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Colombia.<br>
       - :telescope: I study as an analyst and software developer.<br>
       - :seedling: I love learning and creating new things.<br>

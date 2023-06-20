@@ -27,7 +27,7 @@
 
   ---
 
-  <div align="left">
+  <div align="center">
     <h4>
       👨‍💻About Me:<br><br>
       - 🤍 I am a back-End developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Colombia.<br>

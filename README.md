@@ -36,7 +36,8 @@
       - :zap: In my spare time, I like to meditate, play the guitar, and exercise.  
     </h3>
   </div>
-  ---
+
+
 
   ### :hammer_and_wrench: Languages and Tools:
   

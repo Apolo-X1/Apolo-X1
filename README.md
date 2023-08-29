@@ -62,7 +62,7 @@
   ---
 
   ### 💻GitHub Stats:
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Apolo-X1=anuraghazra&show_icons=true&theme=radical)
+  ![](https://github-readme-stats.vercel.app/api?Apolo-X1=anuraghazra&show_icons=true&theme=radical)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Apolo-X1&theme=radical&hide_border=false)
   
 </div>

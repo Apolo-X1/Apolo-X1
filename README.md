@@ -62,7 +62,6 @@
   ---
 
   ### 💻GitHub Stats:
-  ![Apolo-X1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apolo-X1&theme=radical&show_icons=true&hide_border=false&layout=compact)<br>
   ![Apolo-X1's Stats](https://github-readme-stats.vercel.app/api?username=Apolo-X1&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
   ![Apolo-X1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apolo-X1&theme=radical&hide_border=false)
   

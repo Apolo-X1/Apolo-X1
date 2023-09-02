@@ -36,7 +36,7 @@
        :seedling: I love learning and creating new things.<br>
        :zap: In my spare time I like to meditate, play the guitar and exercise.  
     
-  
+
 
   ---
 

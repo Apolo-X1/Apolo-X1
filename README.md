@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/david-guerra-9a4336268/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href='apolo-x1.netlify.app' target="_blank"><img alt='netlify' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=FF1100&color=FF0000'/></a>
+    <a href='apolo-x1.netlify.app' target="_blank"><img alt='netlify' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=DD1E11&color=FF0000'/></a>
   </div>
 
   <div>

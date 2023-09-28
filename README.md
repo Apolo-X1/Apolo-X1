@@ -18,7 +18,7 @@
 
   <h1>
     Welcome Back:)
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="30px"/>
   </h1>
 
   <div>

@@ -18,11 +18,11 @@
 
   <h1>
     Welcome Back:)
-    <img src="/gg.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
   <div>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmIzOWUyNTgxZDgxNGJhZGZmYjMyZjhmMWQxM2Q1YWEwYTUxOGI3YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xUOwGcu6wd0cXBj5n2/giphy.gif" width="600" height="500"/>
+    <img src="gg.gif" width="600" height="500"/>
   </div>
 
   ---

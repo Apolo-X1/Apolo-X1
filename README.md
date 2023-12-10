@@ -22,7 +22,7 @@
   </h1>
 
   <div>
-    <img src="gg.gif" width="600" height="500"/>
+    <img src="gg.gif" width="600" height="800"/>
   </div>
 
   ---

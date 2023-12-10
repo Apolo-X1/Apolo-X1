@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href='https://apolo-x1.netlify.app' target="_blank">
-      <img alt='netlify' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=DD1E11&color=1300FF'/></a>
+      <img alt='netlify' src='https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=netlify&logoColor=FFFFFF&labelColor=1300FF&color=1300FF'/></a>
   </div>
 
   <div>

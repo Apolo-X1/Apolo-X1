@@ -24,7 +24,7 @@
 
   
   <div>
-    <img src="gg.gif" width="800" height="500"/>
+    <img src="gg.gif" width="600" height="400"/>
   </div>
 
   ---

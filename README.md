@@ -22,9 +22,6 @@
   </h1>
 
   
-  ---
-
-  
   <div>
     <img src="gg.gif" width="800" height="500"/>
   </div>
